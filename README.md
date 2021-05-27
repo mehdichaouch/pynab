@@ -1,3 +1,5 @@
+Auto Label test
+
 # Nabaztag en Python pour Raspberry Pi
 
 [![build (qemu)](https://github.com/nabaztag2018/pynab/actions/workflows/arm-runner.yml/badge.svg?branch=master)](https://github.com/nabaztag2018/pynab/actions/workflows/arm-runner.yml)
