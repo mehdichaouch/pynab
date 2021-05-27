@@ -53,3 +53,6 @@
 
 'web':
   - nabweb/**
+
+'Translations':
+  - '**/*.po'
